@@ -26,4 +26,4 @@ I have to create simple pages in my daily work. Sometimes it's compiled Markdown
 
 ## Examples
 
-[Website for this repo](https://igoradamenko.github.io/awsm.css/) use awsm.css. Check this out.
+[Website for this repo]([https://igoradamenko.github.io/awsm.css/](https://igoradamenko.com/awsm.css/v2/index.html)) use awsm.css. Check this out.
